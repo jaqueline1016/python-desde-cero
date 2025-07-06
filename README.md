@@ -5,17 +5,18 @@ Este repositorio contiene ejercicios y ejemplos que estoy realizando mientras ap
 ## Contenido
 
 ### Fundamentos de Python
-- Clase 1: sintaxis basica
-- Clase 2: Variables, tipos de datos, operaciones
+- Clase 1: Fundamentos de Python
+- Clase 2: Datos Compuestos
+- Clase 3:
 - ...
 
 ### Programacion Orientado a Objetos (POO)
-- Clase 1: Clases y Objetos 
-- Clase 2: Metodos y atributos 
 - ...
+- ... 
+
 ### Desarrollo web 
-- Clase 1: Flask
-- Clase 2: Django
+- ...
+- ... 
 
 
 ## Autora
