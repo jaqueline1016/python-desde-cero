@@ -8,4 +8,28 @@ if age >= 18:
 else:
     print("You are a minor.")
 
-    
+# --------------------------------
+
+response  =  input("Would you like food? (yes/no): ")
+
+if response.lower() == "yes":
+    print("Here is your food.")
+else:
+    print("No food for you.")
+
+# --------------------------------
+
+name =  input("Enter your name: ")
+
+if name == "":
+    print("You did not enter a name.")
+else:
+    print(f"Hello, {name}!")
+
+# --------------------------------
+for_sale =  True
+ 
+if for_sale:
+    print("This item is for sale.")
+else: 
+    print("This item is not for sale.")
