@@ -1,4 +1,4 @@
-# 🐍 Python para Backend
+# 🐍 Python desde cero
 
 Este repositorio es una bitácora de mi proceso de aprendizaje acelerado en Python.
 
